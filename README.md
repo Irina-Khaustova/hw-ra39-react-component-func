@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/weo149d2ofuag2t0?svg=true)](https://ci.appveyor.com/project/Irina-Khaustova/hw-ra39-react-component-func1)
+[![Build status](https://ci.appveyor.com/api/projects/status/x51fol0k7rc59l9x?svg=true)](https://ci.appveyor.com/project/Irina-Khaustova/hw-ra39-react-component-func)
